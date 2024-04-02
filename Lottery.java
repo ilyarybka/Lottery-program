@@ -1,9 +1,3 @@
-/*Iliya Klishin
- *Dr. Steinberg
- *COP 3503 Summer 2022
- *Programming Assignment1
- */
- 
  import java.util.*;
  
  
